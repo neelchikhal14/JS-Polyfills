@@ -1,2 +1,3 @@
 # JS-Polyfills
-Polyfills for JS Functions
+
+Polyfills for JS inbuilt Functions
